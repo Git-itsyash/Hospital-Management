@@ -29,5 +29,5 @@ Follow these steps to run the project locally 👇
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone (https://github.com/Git-itsyash/Hospital-Management.git) 
    cd hospital-management
